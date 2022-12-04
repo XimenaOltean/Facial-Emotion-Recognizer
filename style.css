@@ -1,0 +1,13 @@
+body {
+    color:rgb(72, 0, 130);
+    background:rgb(218, 170, 255);
+}
+
+.heading {
+    width:80%;
+    font-size:22px
+}
+
+.nameofobjects {
+    color:rgb(153, 20, 255);
+}
